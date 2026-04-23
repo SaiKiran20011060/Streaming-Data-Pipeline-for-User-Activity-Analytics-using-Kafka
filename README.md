@@ -26,6 +26,9 @@ Firebase Firestore → Kafka Producer → Kafka Broker → Kafka Consumer → Sn
 - Firebase Admin Account
 - Snowflake Account
 
+https://github.com/user-attachments/assets/161bb6da-99e1-4a54-a276-5bea4d3fd6c6
+
+
 ## 🚀 Setup Instructions
 
 ### 1. Clone the Repository
