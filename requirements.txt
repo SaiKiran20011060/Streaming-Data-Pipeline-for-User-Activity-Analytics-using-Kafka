@@ -1,3 +1,5 @@
 firebase-admin
 kafka-python
 python-dotenv
+snowflake-connector-python
+pyspark
